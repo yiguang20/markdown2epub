@@ -4,7 +4,7 @@
 
 The converter automatically generates a hierarchical table of contents (TOC) from your markdown headings, making it easy for readers to navigate your ebook.
 
-## How It Works
+## How It Works （）
 
 ### Automatic Detection
 
